@@ -1,0 +1,2 @@
+# WordCloudGenerator
+Generic wordcloud generator
